@@ -3,6 +3,8 @@
 
  import './index.css';
 
+
+//fgfgfg
 const questions = [
   {
     title: 'Какое из приводимых понятий соответствует “Psyche” у древних греков:',
